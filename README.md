@@ -8,7 +8,7 @@ Install spotify with a command.
 1. TR KURULUM<br />
 <br />
 Uygun bir dizinde<br />
-komut: " wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip "<br />
+komut: " <quote>wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip<quote> "<br />
 komut: " cd Spotify-Installer-master/ "<br />
 komut: " chmod 777 install.sh "<br />
 komut: " ./install.sh "<br />
