@@ -1,21 +1,21 @@
 # Spotify-Installer
 Install spotify with a command.
 
-İÇERİK / CONTENT
-1. TÜRKÇE KURULUM
-2. INSTALLATION IN ENGLISH
-
-1. TR KURULUM
-
-Uygun bir dizinde
-komut: " wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip "
-komut: " cd Spotify-Installer-master/ "
-komut: " chmod 777 install.sh "
-komut: " ./install.sh "
-
-2. INSTALLATION IN ENGLISH
-
-command: " wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip "
-command: " cd Spotify-Installer-master/ "
-command: " chmod 777 install.sh "
-command: " ./install.sh "
+İÇERİK / CONTENT<br />
+1. TÜRKÇE KURULUM<br />
+2. INSTALLATION IN ENGLISH<br />
+<br />
+1. TR KURULUM<br />
+<br />
+Uygun bir dizinde<br />
+komut: " wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip "<br />
+komut: " cd Spotify-Installer-master/ "<br />
+komut: " chmod 777 install.sh "<br />
+komut: " ./install.sh "<br />
+<br />
+2. INSTALLATION IN ENGLISH<br />
+<br />
+command: " wget https://github.com/iOSMANzZz/Spotify-Installer/archive/master.zip "<br />
+command: " cd Spotify-Installer-master/ "<br />
+command: " chmod 777 install.sh "<br />
+command: " ./install.sh "<br />
