@@ -10,10 +10,10 @@ clear
 
 # 3. Update list of available packages
 echo Updating list of available packages.
-sudo apt-get update
+sudo apt-get -y update
 clear
 
 # 4. Install Spotify
 echo Installing Spotify.
-sudo apt-get install spotify-client
+sudo apt-get -y install spotify-client
 echo success.
