@@ -1,5 +1,7 @@
 # Spotify-Installer
-Install spotify with a command.
+[<strong>TR</strong>] Spotify'ı Debian tabanlı işletim sistemlerine tek komutla kurun.<br />
+[<strong>EN</strong>] Install spotify with a command on Debian-based operating system.<br />
+
 
 <h1>İÇERİK / CONTENT</h1>
 <ul type="circle">
