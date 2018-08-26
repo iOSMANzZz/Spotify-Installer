@@ -1,6 +1,6 @@
 # 1. Add the Spotify repository signing key to be able to verify downloaded packages
 echo Adding the Spotify repository signing key to be able to verify downloaded packages.
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys BBEBDCB318AD50EC6865090613B00F1FD2C19886
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
 clear
 
 # 2. Add the Spotify repository
@@ -10,10 +10,10 @@ clear
 
 # 3. Update list of available packages
 echo Updating list of available packages.
-sudo apt-get -y update
+sudo apt update
 clear
 
 # 4. Install Spotify
 echo Installing Spotify.
-sudo apt-get -y install spotify-client
+sudo apt -y install spotify-client
 echo success.
